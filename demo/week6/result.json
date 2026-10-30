@@ -1,0 +1,151 @@
+{
+ "status": 200,
+ "data": {
+  "error": null,
+  "results": {
+   "output": [
+    {
+     "ui_score": 77,
+     "mask_urls": [
+      "demo/week6/eye_bag.png"
+     ],
+     "raw_score": 71.03793025016785,
+     "type": "eye_bag",
+     "url": null
+    },
+    {
+     "ui_score": 71,
+     "mask_urls": [
+      "demo/week6/oiliness.png"
+     ],
+     "raw_score": 58.9772834777832,
+     "type": "oiliness",
+     "url": null
+    },
+    {
+     "ui_score": 76,
+     "mask_urls": [
+      "demo/week6/firmness.png"
+     ],
+     "raw_score": 68.91067624092102,
+     "type": "firmness",
+     "url": null
+    },
+    {
+     "ui_score": 84,
+     "mask_urls": [
+      "demo/week6/redness.png"
+     ],
+     "raw_score": 86.86092376708984,
+     "type": "redness",
+     "url": null
+    },
+    {
+     "ui_score": 71,
+     "mask_urls": [
+      "demo/week6/pore.png"
+     ],
+     "raw_score": 57.542551040649414,
+     "type": "pore",
+     "url": null
+    },
+    {
+     "ui_score": 78,
+     "mask_urls": [
+      "demo/week6/texture.png"
+     ],
+     "raw_score": 74.04224872589111,
+     "type": "texture",
+     "url": null
+    },
+    {
+     "ui_score": 65,
+     "mask_urls": [
+      "demo/week6/dark_circle_v2.png"
+     ],
+     "raw_score": 49.218493700027466,
+     "type": "dark_circle_v2",
+     "url": null
+    },
+    {
+     "ui_score": 79,
+     "mask_urls": [
+      "demo/week6/wrinkle.png"
+     ],
+     "raw_score": 88.17973732948303,
+     "type": "wrinkle",
+     "url": null
+    },
+    {
+     "ui_score": 73,
+     "mask_urls": [
+      "demo/week6/radiance.png"
+     ],
+     "raw_score": 61.666667461395264,
+     "type": "radiance",
+     "url": null
+    },
+    {
+     "ui_score": 75,
+     "mask_urls": [
+      "demo/week6/age_spot.png"
+     ],
+     "raw_score": 79.95939636230469,
+     "type": "age_spot",
+     "url": null
+    },
+    {
+     "ui_score": 75,
+     "mask_urls": [
+      "demo/week6/acne.png"
+     ],
+     "raw_score": 66.49542,
+     "type": "acne",
+     "url": null
+    },
+    {
+     "ui_score": 69,
+     "mask_urls": [
+      "demo/week6/moisture.png"
+     ],
+     "raw_score": 48.612308502197266,
+     "type": "moisture",
+     "url": null
+    },
+    {
+     "type": "skin_type",
+     "region": "whole",
+     "skin_type": "Combination",
+     "url": null
+    },
+    {
+     "type": "skin_type",
+     "region": "t_zone",
+     "skin_type": "Oily",
+     "url": null
+    },
+    {
+     "type": "skin_type",
+     "region": "u_zone",
+     "skin_type": "Dry",
+     "url": null
+    },
+    {
+     "score": 74.41666666666667,
+     "type": "all",
+     "url": null
+    },
+    {
+     "score": 33,
+     "type": "skin_age",
+     "url": null
+    },
+    {
+     "type": "resize_image",
+     "url": null
+    }
+   ]
+  },
+  "task_status": "success"
+ }
+}
